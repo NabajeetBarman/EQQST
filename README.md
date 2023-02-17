@@ -14,11 +14,11 @@ Please email Nabajeet Barman at `n.barman@ieee.org` to obtain the password to ac
 
 In case of any queries, please contact any of the authors below: 
 
-    Sergio Pezzulli (`sergio.pezzulli@uniroma1.it`) - University of Rome La Sapienza, Italy
+    Sergio Pezzulli (sergio.pezzulli@uniroma1.it) - University of Rome La Sapienza, Italy
 
-    Maria G. Martini ( `m.martini@kingston.ac.uk`) - Kingston University, London, U.K.
+    Maria G. Martini (m.martini@kingston.ac.uk) - Kingston University, London, U.K.
 
-    Nabajeet Barman (`n.barman4@gmail.com`) – Kingston University, London, U.K.
+    Nabajeet Barman (nabajeetbarman4@gmail.com) – Kingston University, London, U.K.
 
 # Details of the Database
 
